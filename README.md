@@ -1,4 +1,4 @@
-# Conceitos-Node.js
+# Conceitos Node.js
 Desafio 02 - Conceitos Node.js aplicando no Bootcamp GoStack da Rocketseat.
 
 ## Sobre
