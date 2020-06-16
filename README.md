@@ -18,4 +18,4 @@ Nesse desafio do Bootcamp, criei uma aplicação para treinar o que você aprend
 O template está disponível na seguinte url: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
 
 ## Autor
-Alexandre Maicol Valeriano de Jesus - [GitHub](https://github.com/alexandre-maicol) / [Email](mailto:alexandre-maicol@hotmai.com) [GitPage](https://alexandre-maicol.github.io)
+Alexandre Maicol - [GitHub](https://github.com/alexandre-maicol) / [Email](mailto:alexandre-maicol@hotmai.com) / [GitPage](https://alexandre-maicol.github.io)
